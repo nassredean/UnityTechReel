@@ -205,7 +205,7 @@
       "url": "https://registry.npmjs.com"
     },
     "jp.keijiro.klak.timeline.procedural-motion": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -225,10 +225,11 @@
       "url": "https://registry.npmjs.com"
     },
     "jp.keijiro.vfxgraphassets": {
-      "version": "1.0.10",
+      "version": "1.1.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {
+        "com.unity.visualeffectgraph": "12.1.0",
         "jp.keijiro.shadergraphassets": "1.0.4"
       },
       "url": "https://registry.npmjs.com"
