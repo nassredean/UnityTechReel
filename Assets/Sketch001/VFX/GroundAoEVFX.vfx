@@ -118,7 +118,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Gradient, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"colorKeys":[{"color":{"r":19.494054794311525,"g":4.688320159912109,"b":1.3645837306976319,"a":1.0},"time":0.0},{"color":{"r":311.9048767089844,"g":75.01312255859375,"b":21.83333969116211,"a":1.0},"time":0.9117723107337952}],"alphaKeys":[{"alpha":0.0,"time":0.0},{"alpha":1.0,"time":0.10000763088464737},{"alpha":0.800000011920929,"time":0.9147020578384399},{"alpha":0.0,"time":1.0}],"gradientMode":0}'
+      m_SerializableObject: '{"colorKeys":[{"color":{"r":0.75,"g":0.18037499487400056,"b":0.05249999463558197,"a":1.0},"time":0.0},{"color":{"r":13.802420616149903,"g":3.3194820880889894,"b":0.9661693572998047,"a":1.0},"time":0.9029373526573181}],"alphaKeys":[{"alpha":0.0,"time":0.0},{"alpha":1.0,"time":0.10000763088464737},{"alpha":0.800000011920929,"time":0.9147020578384399},{"alpha":0.0,"time":1.0}],"gradientMode":0}'
     min: -Infinity
     max: Infinity
     enumValues: []
@@ -1686,7 +1686,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Gradient, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"colorKeys":[{"color":{"r":19.494054794311525,"g":4.688320159912109,"b":1.3645837306976319,"a":1.0},"time":0.0},{"color":{"r":311.9048767089844,"g":75.01312255859375,"b":21.83333969116211,"a":1.0},"time":0.9117723107337952}],"alphaKeys":[{"alpha":0.0,"time":0.0},{"alpha":1.0,"time":0.10000763088464737},{"alpha":0.800000011920929,"time":0.9147020578384399},{"alpha":0.0,"time":1.0}],"gradientMode":0}'
+      m_SerializableObject: '{"colorKeys":[{"color":{"r":0.75,"g":0.18037499487400056,"b":0.05249999463558197,"a":1.0},"time":0.0},{"color":{"r":13.802420616149903,"g":3.3194820880889894,"b":0.9661693572998047,"a":1.0},"time":0.9029373526573181}],"alphaKeys":[{"alpha":0.0,"time":0.0},{"alpha":1.0,"time":0.10000763088464737},{"alpha":0.800000011920929,"time":0.9147020578384399},{"alpha":0.0,"time":1.0}],"gradientMode":0}'
     m_Space: 2147483647
   m_Property:
     name: o
